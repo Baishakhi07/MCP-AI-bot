@@ -292,11 +292,12 @@ def ask_question(question: str) -> str:
 
 Results (Screenshot): 
 
+<img width="1425" height="815" alt="image" src="https://github.com/user-attachments/assets/839dbd23-aa63-4232-b75e-ed1a412552d8" />
 
 
 Future Work:
 
-
+RAG pipeline will be introduced in MCP framework for better semantic search of articles with vector database and embeddings using Ollama for secure information of the customer/users.
     
     
 
